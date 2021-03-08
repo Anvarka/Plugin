@@ -1,3 +1,3 @@
 # Plugin
 
- Реализация парсера лежит в Program.cs. Тесты лежат в  ParserTests.cs
+ Реализация парсера лежит в Program.cs. Тесты лежат в  UnitTest1.cs
