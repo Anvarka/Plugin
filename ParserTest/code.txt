@@ -1,0 +1,16 @@
+program  n_3_1;
+  var s, i: integer;
+begin 
+  s:=0; {
+this is comment
+}
+  for i:=1 to 10 do
+     begin 
+        s:=s+a[i]
+     end;
+(*
+It is second comment
+A lot of line
+klfdf 123 3423
+*)
+end.  // Third comment about end
